@@ -1,0 +1,15 @@
+{
+  "name": "bai40-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promise": "^8.1.0",
+    "request": "^2.88.2"
+  }
+}
